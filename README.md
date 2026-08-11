@@ -32,5 +32,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0162-find-peak-element) |
 | [0941-valid-mountain-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0941-valid-mountain-array) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
