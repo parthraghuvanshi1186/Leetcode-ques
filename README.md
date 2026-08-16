@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1510-stone-game-iv](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0033-search-in-rotated-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0162-find-peak-element) |
 | [0485-max-consecutive-ones](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0485-max-consecutive-ones) |
