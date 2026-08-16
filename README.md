@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0680-valid-palindrome-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
 |  |
@@ -96,4 +97,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0680-valid-palindrome-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0680-valid-palindrome-ii) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
