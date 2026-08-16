@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0162-find-peak-element) |
 | [0485-max-consecutive-ones](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-valid-mountain-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0941-valid-mountain-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
