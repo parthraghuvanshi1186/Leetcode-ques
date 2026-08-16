@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0540-single-element-in-a-sorted-array) |
 | [0941-valid-mountain-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0941-valid-mountain-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3477-fruits-into-baskets-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0540-single-element-in-a-sorted-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +64,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3477-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
