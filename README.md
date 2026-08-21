@@ -139,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0202-happy-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
