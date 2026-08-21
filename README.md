@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0541-reverse-string-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0771-jewels-and-stones) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0202-happy-number) |
+| [0541-reverse-string-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
