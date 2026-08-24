@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0628-maximum-product-of-three-numbers) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
