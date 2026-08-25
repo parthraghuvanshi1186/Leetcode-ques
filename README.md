@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0349-intersection-of-two-arrays) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0680-valid-palindrome-ii) |
 ## Newton's Method
 |  |
