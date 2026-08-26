@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0941-valid-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1748-sum-of-unique-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Counting Sort
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
