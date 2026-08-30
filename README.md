@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1748-sum-of-unique-elements) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2206-divide-array-into-equal-pairs](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/2206-divide-array-into-equal-pairs) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0771-jewels-and-stones) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
 |  |
