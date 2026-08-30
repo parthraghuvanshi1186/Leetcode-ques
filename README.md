@@ -263,4 +263,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0197-rising-temperature) |
+| [0620-not-boring-movies](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
