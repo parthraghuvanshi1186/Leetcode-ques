@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0922-sort-array-by-parity-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0643-maximum-average-subarray-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
