@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0977-squares-of-a-sorted-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1748-sum-of-unique-elements) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3090-maximum-length-substring-with-two-occurrences) |
