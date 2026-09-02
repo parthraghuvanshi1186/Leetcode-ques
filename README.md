@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0540-single-element-in-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1004-max-consecutive-ones-iii) |
 | [3477-fruits-into-baskets-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1004-max-consecutive-ones-iii) |
 ## Queue
 |  |
 | ------- |
