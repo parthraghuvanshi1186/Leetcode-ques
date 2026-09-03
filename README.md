@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0941-valid-mountain-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1748-sum-of-unique-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/2206-divide-array-into-equal-pairs) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
