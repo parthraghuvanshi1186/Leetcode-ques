@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0202-happy-number) |
+| [0279-perfect-squares](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1510-stone-game-iv) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0279-perfect-squares](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0509-fibonacci-number) |
 | [1510-stone-game-iv](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1510-stone-game-iv) |
 ## Minimax
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0100-same-tree) |
+| [0279-perfect-squares](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0279-perfect-squares) |
 ## Binary Tree
 |  |
 | ------- |
@@ -305,4 +308,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0169-majority-element) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
