@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0628-maximum-product-of-three-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1510-stone-game-iv](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1510-stone-game-iv) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3875-construct-uniform-parity-array-i) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1052-grumpy-bookstore-owner) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
