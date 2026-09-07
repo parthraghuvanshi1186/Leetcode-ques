@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0509-fibonacci-number) |
+| [0918-maximum-sum-circular-subarray](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0918-maximum-sum-circular-subarray) |
 | [1510-stone-game-iv](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0905-sort-array-by-parity) |
+| [0918-maximum-sum-circular-subarray](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0977-squares-of-a-sorted-array) |
@@ -307,12 +309,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0918-maximum-sum-circular-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -342,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0279-perfect-squares) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
