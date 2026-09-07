@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0070-climbing-stairs) |
@@ -266,11 +267,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0206-reverse-linked-list) |
 ## Timsort
 |  |
