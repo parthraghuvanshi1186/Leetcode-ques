@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0560-subarray-sum-equals-k) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1004-max-consecutive-ones-iii) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0771-jewels-and-stones) |
