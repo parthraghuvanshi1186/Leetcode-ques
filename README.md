@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0205-isomorphic-strings) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0424-longest-repeating-character-replacement) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0387-first-unique-character-in-a-string) |
