@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0904-fruit-into-baskets) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1480-running-sum-of-1d-array) |
