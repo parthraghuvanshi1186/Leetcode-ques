@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1510-stone-game-iv](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1510-stone-game-iv) |
+| [2769-find-the-maximum-achievable-number](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/2769-find-the-maximum-achievable-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3871-count-commas-in-range-ii) |
