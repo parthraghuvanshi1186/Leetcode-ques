@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0918-maximum-sum-circular-subarray) |
 | [1510-stone-game-iv](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1510-stone-game-iv) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3477-fruits-into-baskets-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3477-fruits-into-baskets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3875-construct-uniform-parity-array-i) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3477-fruits-into-baskets-ii](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting Sort
 |  |
 | ------- |
