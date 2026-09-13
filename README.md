@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1510-stone-game-iv](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1510-stone-game-iv) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/2769-find-the-maximum-achievable-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/3870-count-commas-in-range) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1748-sum-of-unique-elements) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1991-find-the-middle-index-in-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2206-divide-array-into-equal-pairs](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/2206-divide-array-into-equal-pairs) |
@@ -395,4 +397,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/0303-range-sum-query-immutable) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/parthraghuvanshi1186/Leetcode-ques/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
